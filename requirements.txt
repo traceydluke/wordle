@@ -1,0 +1,7 @@
+click==8.0.4
+flake8
+openpyxl
+pandas
+pre-commit
+requests
+tan
